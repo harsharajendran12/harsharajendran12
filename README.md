@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harsha Rajendran 👋
 
-<!--
-**harsharajendran12/harsharajendran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at S.A. Engineering College
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Java, Web Development, and SQL.
+
+🚀 Interested in building practical software projects and improving my programming skills.
+
+## Technical Skills
+
+- **Programming:** Java
+- **Web Technologies:** HTML, CSS
+- **Database:** SQL
+- **Cloud Computing:** AWS (Basics)
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/harsha-rajendran2006/)
+- [GitHub](https://github.com/harsharajendran12)
